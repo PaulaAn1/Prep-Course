@@ -1,0 +1,19 @@
+Definiciones de:
+
+Variable:
+Variable es algo que varia, que varia porque puede tener varios significados o valores,
+en el lenguaje de Java Scrip al ser un lenguaje de tipado dinamico las variables pueden ser reenombradas y 
+asignarles un valor o significado cuandas veces se quiera, sin necesidad tener en cuenta la variable anterior.
+
+String:
+Es un texto libre o cadena de texto, se le llama así para diferenciarlo de una función o variable, estos strings
+deben estar dentro de los siguientes signos "" ''
+
+Función:
+Una función es una operación o actividad que se realiza dentro de algo de limitado qué tiene como fin lograr un cometido.
+
+Declaración:
+Es una condición que especifica por qué pasa algo, o qué puede suceder en caso tal de que se lleve a cabo cierta acción.
+
+Valores Booleanos:
+Es una lógica la cual simplemente significa que solo se tiene dos opciones, como en el codigo binario que o son 1 o son 0.
