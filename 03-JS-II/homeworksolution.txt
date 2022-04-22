@@ -1,0 +1,17 @@
+Conceptos
+
+For:
+For es un evaluador, que tiene como trabajo evaluar una variable y ejecutar una acción,
+dependiendo de la condición de esa varible (si es true o false) for ejecuta o no nuevamente esa variable.
+
+&&
+Esto en programacion es 'AND' o 'Y' su funcion es ser un operador lógico, su condición es que ambas expresiones
+deben ser verdades para dar true, de lo contrario arrojará un false.
+
+||
+Esto en programacion es un 'OR' o 'O' su función igual que && es ser un operador lógico, y para este caso solo basta
+que una de las dos expresiones sea verdadera para dar true, y si ambas expresiones son falsas arrojará un false.
+
+!
+Esto en programacion es 'NOT' o 'NO', su función igual que && y || es ser un operador lógico, este siempre será contrario
+a algo como por ejemplo un booleano.
