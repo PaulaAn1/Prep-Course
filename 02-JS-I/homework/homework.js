@@ -261,8 +261,9 @@ function esVocal(letra){
     return "Dato Incorrecto";
   } 
   else if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
-    return "Es una Vocal" + ", " + "dato incorrecto";
+    return "Es Vocal";
   } 
+  return "Dato incorrecto";
 
   
 }
