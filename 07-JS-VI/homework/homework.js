@@ -4,7 +4,7 @@ function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
   //ej: Recibe "mario" ----> Devuelve "Mario"
   //Tu código:
-  nombre[0].toUpperCase() + nombre.slice(1);
+  return nombre[0].toUpperCase() + nombre.slice(1);
 }
 
 function invocarCallback(cb) {
@@ -58,7 +58,7 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
   var nuevoArray =[];
-  for(i = 0; i<array.lenght; i++) {
+  for(let i = 0; i<array.length; i++) {
     if(array[i][0] === "a") {
       nuevoArray.push(array[i])
     }
